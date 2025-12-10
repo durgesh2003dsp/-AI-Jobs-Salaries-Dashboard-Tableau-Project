@@ -18,6 +18,10 @@ Provide insights into company size and employment structure in the AI sector.
 
 Build an interactive dashboard for quick filtering and exploration.
 
+## **Dashboard**
+![AI Jobs Salaries Dashboard](https://github.com/durgesh2003dsp/-AI-Jobs-Salaries-Dashboard-Tableau-Project/blob/main/Ai%20jobs%20salaeries%20dashboard%20tablua.PNG?raw=true)
+
+
 ## **3. Dashboard Features**
 
 3.1 Average Salary by Experience Level & Employment Type
